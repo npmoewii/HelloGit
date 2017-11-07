@@ -1,3 +1,8 @@
-##Test
-Test using git
-Hello Git and Java :)
+# Test
+## Practice create README.md
+``` 
+Hello Git and Java using triple of `
+```
+## List
+* li 1 using *
+* li 2 using *
